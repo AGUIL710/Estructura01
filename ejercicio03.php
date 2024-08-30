@@ -15,3 +15,5 @@ if ($esPrimo) {
 } else {
     echo "$x no es un número primo.\n";
 }
+
+
